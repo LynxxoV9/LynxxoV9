@@ -1,7 +1,7 @@
 <div align="center">
 
-# LynxxoV9
+# lynxxoven
 
-### Cybersecurity · DFIR · AI
+### CYBERSECURITY | SOC | DFIR | AI
 
 </div>
