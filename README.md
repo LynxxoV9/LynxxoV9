@@ -114,7 +114,7 @@ Civic incident reporting platform powered by an autonomous Elastic AI Agent that
 <tr>
 <td width="50%">
 
-<h3>🌐 <a href="TON_LIEN_EEBTP">EEBTP Secure Network</a></h3>
+<h3>🌐 <a href="https://github.com/LynxxoV9/BTS-ARLE">EEBTP Secure Network</a></h3>
 
 Secure network architecture designed around authentication, network segmentation and centralized infrastructure management.
 
