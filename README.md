@@ -116,7 +116,7 @@ Civic incident reporting platform powered by an autonomous Elastic AI Agent that
 
 <h3>🌐 <a href="https://github.com/LynxxoV9/BTS-ARLE">EEBTP Secure Network</a></h3>
 
-Secure network architecture designed around authentication, network segmentation and centralized infrastructure management.
+Secure network architecture focused on authentication, network segmentation and centralized access control, developed as part of my BTS project at EEBTP.
 
 <code>Cybersecurity</code> <code>pfSense</code> <code>VLAN</code> <code>802.1X</code> <code>Microsoft NPS</code> <code>Windows Server</code> <code>Active Directory</code>
 
