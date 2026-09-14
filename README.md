@@ -102,7 +102,7 @@ Autonomous DFIR AI Agent built around SIFT Workstation, MCP and Gemini.
 
 <td width="50%">
 
-<h3>🧠 <a href="https://afrigov-sentinel.netlify.app/">AfriGov Sentinel</a></h3>
+<h3>🧠 <a href="https://devpost.com/software/root4">AfriGov Sentinel</a></h3>
 
 Civic incident reporting platform powered by an autonomous Elastic AI Agent that analyzes incidents, identifies responsible authorities, and automatically escalates critical cases.
 
