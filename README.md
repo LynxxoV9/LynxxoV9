@@ -26,6 +26,7 @@
 <img src="https://cdn.simpleicons.org/linux" height="32" alt="REMnux" title="REMnux"/>
 <img src="https://cdn.simpleicons.org/volatility" height="32" alt="Volatility" title="Volatility"/>
 <img src="https://cdn.simpleicons.org/ghidra" height="32" alt="Ghidra" title="Ghidra"/>
+<img src="https://cdn.simpleicons.org/autopsy" height="32" alt="Autopsy" title="Autopsy"/>
 </p>
 
 <p>
